@@ -1,6 +1,7 @@
 {
   "packs": [
-    "yorukbabagizlibaselegacy.json"
+    "yorukbabagizlibaselegacy.json",
+    "scalar-privacy_pam.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
